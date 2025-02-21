@@ -1,37 +1,37 @@
-# pycalculator
+<h2>🛠 Features</h2>
+<ul>
+    <li>Addition</li>
+    <li>Subtraction</li>
+    <li>Multiplication</li>
+    <li>Division</li>
+    <li>Square root calculation</li>
+    <li>Clear input fields</li>
+</ul>
 
-## Description
+<h2>📦 Requirements</h2>
+<ul>
+    <li>Python 3.x</li>
+    <li>Tkinter library (included in the standard Python installation)</li>
+</ul>
 
-pycalculator is a simple Python-based calculator that supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
+<h2>🚀 How to Run</h2>
+<ol>
+    <li>Clone this repository:
+        <pre><code>git clone https://github.com/Macorfilho/pycalculator.git</code></pre>
+    </li>
+    <li>Navigate to the project folder:
+        <pre><code>cd pycalculator</code></pre>
+    </li>
+    <li>Run the Python script:
+        <pre><code>python calculator.py</code></pre>
+    </li>
+</ol>
 
-## Features
+<h2>🖥 Interface</h2>
+<p>The graphical interface is simple and user-friendly, allowing users to input two numbers and select mathematical operations.</p>
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
+<h2>📷 Screenshot</h2>
+<p>(Optional, insert an image of the interface)</p>
 
-## Installation
-
-To install pycalculator, clone the repository and navigate to the project directory:
-
-```bash
-git clone https://github.com/yourusername/pycalculator.git
-cd pycalculator
-```
-
-## Usage
-
-Run the calculator script using Python:
-
-```bash
-python calculator.py
-```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
+<h2>📄 License</h2>
+<p>This project is licensed under the MIT License. Feel free to use and modify it!</p>
