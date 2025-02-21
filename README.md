@@ -30,8 +30,5 @@
 <h2>🖥 Interface</h2>
 <p>The graphical interface is simple and user-friendly, allowing users to input two numbers and select mathematical operations.</p>
 
-<h2>📷 Screenshot</h2>
-<p>(Optional, insert an image of the interface)</p>
-
 <h2>📄 License</h2>
 <p>This project is licensed under the MIT License. Feel free to use and modify it!</p>
